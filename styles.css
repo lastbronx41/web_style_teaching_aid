@@ -1,0 +1,61 @@
+* {
+   box-sizing: content-box;
+}
+
+h1 {
+   font-family: Helvetica, "Sans Serif";
+   font-size: 30px;
+   text-align: left;
+   padding-left: 40px;
+}
+
+.color {
+   color: rgb(0, 0, 0);
+   font-family: Monaco;
+   height: 340px;
+   width: auto;
+   border: 1px solid black;
+   margin: 0px;
+   padding: 0 auto;
+
+}
+
+.color div {
+   display: inline-block;
+   vertical-align: middle;
+   height: 122.5px;
+   width: 32%;
+   margin: 3px;
+   padding-top: 0px;
+   text-align: center;
+   line-height: 30px;
+   border: 1px solid rgb(0, 0, 0);
+   overflow-wrap: normal;
+}
+#serial {
+   display: block;
+}
+
+.Aqua {
+   background-color: aqua;
+}
+.DarkCyan {
+   background-color: DarkCyan
+}
+.DarkSalmon {
+   background-color: DarkSalmon
+}
+.LightCoral {
+   background-color: LightCoral
+}
+
+.color h3 {
+   padding-left: 40px;
+   width: 100%;
+   text-align: left;
+}
+
+.color {
+   display: flex;
+   flex-wrap: wrap;
+}
