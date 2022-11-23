@@ -1,2 +1,2 @@
-# website_design_alphabeta
-Website design project for a client
+# web_style_teaching_aid
+Color choice and web design teaching aid
